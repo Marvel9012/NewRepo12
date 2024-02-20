@@ -18,4 +18,5 @@ int main()
 {
 	Sample s1(10);
 	s1.print();
+
 }
