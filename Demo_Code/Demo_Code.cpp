@@ -17,7 +17,7 @@ public:
 int main()
 {
 	Sample s1(10);
-	s1.print();
+	s1.print();hghjkh
 
 	cout << "Abc added" << endl;
 
